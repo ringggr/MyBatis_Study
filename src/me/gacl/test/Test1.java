@@ -48,6 +48,8 @@ public class Test1 {
 	    deleteUser(session, "丹丹");
 	    
 	    
+	    
+	    
 	}
 	
 	public static void addUser(SqlSession session,String name, int age) {
