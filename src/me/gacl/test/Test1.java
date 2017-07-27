@@ -47,7 +47,7 @@ public class Test1 {
 	    showAll(session);
 	    deleteUser(session, "丹丹");
 	    
-	    
+	    session.close();
 	    
 	    
 	}
